@@ -6,6 +6,8 @@
 //
 
 import UIKit
+import CoreData
+import CoreLocation
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
